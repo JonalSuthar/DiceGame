@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+h1{
+    color: rgb(32, 121, 47);
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+}
+body{
+    background-color: coral;
+}
+.click{
+    color: crimson;
+    text-align: center;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+
+}
